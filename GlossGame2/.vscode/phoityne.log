@@ -1,0 +1,30 @@
+2022-04-16 17:33:27.609778529000 [17661(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-16 17:34:34.147183375000 [17732(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-16 17:34:37.751888878000 [17782(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 12:45:24.578030677000 [4710(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 12:45:50.199330548000 [4982(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 12:49:25.508287657000 [5555(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 13:38:39.158779755000 [12816(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 19:40:13.621844558000 [31596(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 19:40:36.121584581000 [31650(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 19:41:11.905451414000 [31774(ThreadId 9)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-04-17 19:43:46.921238154000 [32050(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [])
+2022-04-17 19:43:46.951973460000 [32050(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2022-04-17 19:43:57.695311179000 [32121(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [])
+2022-04-17 19:43:57.740016451000 [32121(ThreadId 9)] ERROR APP - start debugging failed. user error (ExecResult not found.) : Left "user error (ExecResult not found.)"
+2022-04-17 19:48:54.930777736000 [32380(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 19:49:50.035905768000 [32575(ThreadId 9)] ERROR APP - user error (<getModule> loaded module can not find from path. </home/denis/HaskellProj/GlossGame2/app/Main.hs> [("Main","/home/denis/HaskellProj/GlossGame2/test/Spec.hs")])
+2022-04-17 19:52:39.518293963000 [32957(ThreadId 9)] ERROR APP - invalid dap result from ghci. []
+2022-04-17 19:52:43.993434209000 [32957(ThreadId 9)] CRITICAL APP - <file descriptor: 26>: hPutChar: resource vanished (Broken pipe)
+2022-04-19 08:50:12.533116976000 [3527(ThreadId 9)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-04-19 08:50:58.263824616000 [3594(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-04-19 08:51:21.576174039000 [3626(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-04-19 09:28:33.696987637000 [24966(ThreadId 9)] ERROR APP - [CRITICAL] can not get the initial ghci prompt.
+2022-04-19 10:51:04.511170447000 [3466(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-04-19 10:51:39.580271459000 [3626(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-04-19 11:36:20.872256002000 [4864(ThreadId 8)] CRITICAL REQUEST - invalid HANDLE. eof.
+2022-04-19 11:36:46.140819542000 [4917(ThreadId 9)] ERROR APP - invalid dap result from ghci. []
+2022-04-19 11:36:46.141713370000 [4917(ThreadId 9)] ERROR APP - <file descriptor: 27>: hPutChar: resource vanished (Broken pipe)
+2022-04-19 11:36:46.142602056000 [4917(ThreadId 9)] ERROR APP - <file descriptor: 27>: hPutChar: resource vanished (Broken pipe)
+2022-04-19 11:36:46.143564879000 [4917(ThreadId 9)] ERROR APP - <file descriptor: 27>: hPutChar: resource vanished (Broken pipe)
+2022-04-19 11:36:48.322079224000 [4917(ThreadId 9)] CRITICAL APP - <file descriptor: 27>: hPutChar: resource vanished (Broken pipe)
